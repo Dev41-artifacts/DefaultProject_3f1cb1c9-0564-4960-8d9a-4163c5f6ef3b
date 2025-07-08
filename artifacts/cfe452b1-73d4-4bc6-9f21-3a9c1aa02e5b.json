@@ -1,0 +1,7 @@
+I understand you want to replace the iframe link, but I need user notes to generate the HTML components. The iframe link you provided will be inserted into the template's `{{ IFRAME_LINK }}` placeholder, but I need information about:
+
+- Project/website details and branding
+- Content requirements (headlines, features, company name, etc.)
+- Design and color preferences (theme)
+
+Please provide the user notes so I can generate the appropriate JSON object with `style_html`, `wireframe_html`, and `footer_html` components that will work with your iframe link.
